@@ -1,0 +1,1 @@
+This repository contains a simple CRUD (Create, Read, Update, Delete) operations web app that allows users to manage a list of products. The app uses vanilla JavaScript and DOM manipulation to interact with an HTML table, allowing users to add new products, edit existing ones, and delete products from the list
