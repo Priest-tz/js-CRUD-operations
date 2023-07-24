@@ -4,9 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const storeList = document.querySelector('#storeList');
   storeList.addEventListener('click', handleTableClick);
-
-
-
 });
 
 
